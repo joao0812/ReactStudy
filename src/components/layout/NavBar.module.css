@@ -1,0 +1,13 @@
+a {
+    text-decoration: none;
+    color: blue;
+}
+.list{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+}
+.item {
+    margin-right: 1em;
+}
